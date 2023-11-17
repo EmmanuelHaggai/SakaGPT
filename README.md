@@ -20,7 +20,11 @@ Follow these steps to set up SakaGPT on your local environment:
 - A connection to the internet.
 - A command line interface.
 - [Node.js](https://nodejs.org/en) (v18 or later downloaded and installed.)
-
+- [DFINITY IC SDK,](https://sdk.dfinity.org/)
+```bash
+sh -ci "$(curl -fsSL https://internetcomputer.org/install.sh)"
+```
+   
 ### Steps
 
 1. **Clone the Repository:**
