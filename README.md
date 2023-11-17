@@ -24,6 +24,10 @@ Follow these steps to set up SakaGPT on your local environment:
 ```bash
 sh -ci "$(curl -fsSL https://internetcomputer.org/install.sh)"
 ```
+- dfx
+  ```bash
+  DFX_VERSION=0.14.1 sh -ci "$(curl -sSL https://internetcomputer.org/install.sh)"
+  ```
    
 ### Steps
 
