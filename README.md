@@ -24,9 +24,13 @@ Follow these steps to set up SakaGPT on your local environment:
 ```bash
 sh -ci "$(curl -fsSL https://internetcomputer.org/install.sh)"
 ```
-- dfx
+- dfx (v14 or later installed.)
   ```bash
-  DFX_VERSION=0.14.1 sh -ci "$(curl -sSL https://internetcomputer.org/install.sh)"
+  DFX_VERSION=0.15.1 sh -ci "$(curl -fsSL https://sdk.dfinity.org/install.sh)"
+  
+  dfx --version
+
+  echo 'export PATH="$PATH:$HOME/bin"' >> "$HOME/.bashrc"
   ```
    
 ### Steps
