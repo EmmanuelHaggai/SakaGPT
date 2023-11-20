@@ -39,15 +39,26 @@ sh -ci "$(curl -fsSL https://internetcomputer.org/install.sh)"
 
    ```bash
    git clone https://github.com/emmanuelhaggai/SakaGPT.git
+   
    cd SakaGPT
    ```
    
 2. **Install Dependencies:**
 
    ```bash
+   npm install @dfinity/auth-client
+   
    npm install
    ```
-3. **Deploy to Internet Computer:**
+3. **Pull the interner identity canister using dfx deps:**
+   ```bash
+   dfx deps pull
+   ```
+4. **Initialize the canister:**
+   ```bash
+   dfx deps init internet_identity --argument '(null)'
+   ```
+5. **Deploy to Internet Computer:**
 
    ```bash
    dfx start --clean --background
