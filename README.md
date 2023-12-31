@@ -2,6 +2,7 @@
 
 SakaGPT is a platform that seamlessly integrates artificial intelligence (AI) with WhatsApp, utilizing the power of the Internet Computer (ICP) blockchain. This project aims to enhance user interactions on WhatsApp by leveraging advanced AI capabilities. View a quick video demo [here](https://youtu.be/X8Mvk_TBBzw?si=bTKfBsGqetKTBdgd) [https://youtu.be/X8Mvk_TBBzw?si=bTKfBsGqetKTBdgd](https://youtu.be/X8Mvk_TBBzw?si=bTKfBsGqetKTBdgd)
 
+
 ## Features
 
 - **AI-powered Responses:** Utilizes state-of-the-art natural language processing (NLP) models to generate intelligent and context-aware responses very fast.
