@@ -1,6 +1,8 @@
 # SakaGPT: AI-powered WhatsApp Integration on the ICP Blockchain
 
-SakaGPT is a platform that seamlessly integrates artificial intelligence (AI) with WhatsApp, utilizing the power of the Internet Computer (ICP) blockchain. This project aims to enhance user interactions on WhatsApp by leveraging advanced AI capabilities. View a quick video demo [here](https://youtu.be/X8Mvk_TBBzw?si=bTKfBsGqetKTBdgd) [https://youtu.be/X8Mvk_TBBzw?si=bTKfBsGqetKTBdgd](https://youtu.be/X8Mvk_TBBzw?si=bTKfBsGqetKTBdgd)
+SakaGPT is a platform that seamlessly integrates artificial intelligence (AI) with WhatsApp, utilizing the power of the Internet Computer (ICP) blockchain. This project aims to enhance user interactions on WhatsApp by leveraging advanced AI capabilities. View a quick video demo [https://youtu.be/X8Mvk_TBBzw?si=bTKfBsGqetKTBdgd](https://youtu.be/X8Mvk_TBBzw?si=bTKfBsGqetKTBdgd)
+
+Live Canister Link: https://c5imq-syaaa-aaaap-qb5wa-cai.icp0.io/
 
 
 ## Features
